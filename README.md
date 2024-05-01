@@ -16,7 +16,7 @@ A script to automatically organize OBS Recordings, Replays and Screenshots into 
 The script needs to be configured via the OBS Script Properties window:
 ![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/b9fa92ab-65b3-4988-8cf0-27e34422cc4d)
 
-**Origin Folder** - Where OBS is currently saving videos/replays and screenshots.
+**Origin Folder** - Where OBS is currently saving videos/replays and screenshots (Must be the same as `Settings>Output>Recording Path`).
 
 **Output Folder** - Top level folder where organized game folders will be created.
 
