@@ -28,7 +28,7 @@ The script needs to be configured via the OBS Script Properties window:
 Just record, save replays, and take screenshots as normal. The script will organize your media automatically as soon as a video or a screenshot are created on the **Origin Folder**.
 
 This script is very much tailored to work with my workflow, it reads from a text file that contains the name of the game you're currently playing. 
-I keep that text file updated automatically with Touch Portal, you must find a way to automate updating it or do it manually (or feel free to modify the python script to do that part for you).
+I keep that text file updated automatically with Touch Portal, you must find a way to automate updating it or do it manually (or feel free to modify the python script to do that part for you some other way).
 
 I recommend setting your output filename to `[%MM-%DD] %H-%M-%S` on `Advanced>Recording>Filename Formatting`
 ![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/e5fe3b5d-68eb-4f43-a9d3-52569bed8feb)
