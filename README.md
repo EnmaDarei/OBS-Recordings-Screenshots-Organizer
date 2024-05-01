@@ -33,3 +33,5 @@ I recommend setting your output filename to `[%MM-%DD] %H-%M-%S` on `Advanced>Re
 ![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/e5fe3b5d-68eb-4f43-a9d3-52569bed8feb)
 
 The script should still work with other file naming conventions, but it checks for that.
+
+<sup>If you find this script useful consider [leaving a tip](https://ko-fi.com/enmadarei)</sup>
