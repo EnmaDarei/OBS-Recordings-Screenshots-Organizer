@@ -8,7 +8,8 @@ A script to automatically organize OBS Recordings, Replays and Screenshots into 
 ```\RecordingsFolder\GameName\YYYY\MM\DD\Videos```
 
 ![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/45ec6cd6-121b-4047-8117-da516c442aec)
-![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/32ec6dbe-8f60-46bb-beec-3486c1655821)
+![image](https://github.com/EnmaDarei/OBS-Recordings-Screenshots-Organizer/assets/14081432/4c831016-c9d7-4d01-b1aa-15ab900ebe04)
+
 
 
 ## Configuration
